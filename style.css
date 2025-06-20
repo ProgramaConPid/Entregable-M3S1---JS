@@ -1,0 +1,22 @@
+/* General Styles */
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  font-size: 3rem;
+}
+
+/* Styles for the data about the user */
+.container__data {
+  width: max-content;
+  margin: auto;
+  padding: 20px;
+  background: linear-gradient(to right, #f4c4f3, #fc67fa);
+  border-radius: .5rem;
+}
+
+.container__data > p {
+  font-size: 1.3rem;
+}
