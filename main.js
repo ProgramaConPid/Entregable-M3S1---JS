@@ -36,4 +36,5 @@ if (validateAge) {
   message.innerHTML = `Mensaje: ${overAgeMessage}`
 }
 
+// Farewell message
 alert("Gracias por haber usado el sistema interactivo de mensajes.")
